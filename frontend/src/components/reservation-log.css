@@ -1,0 +1,9 @@
+.reserved {
+    background-color: green;
+    color: #FFF;
+}
+
+.cancelled {
+    background-color: red;
+    color: cyan;
+}

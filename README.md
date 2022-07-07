@@ -1,7 +1,8 @@
 # buddyreview
-##Development Environment
-node.js v14.19.1
-npm 6.14.16
+
+## Development Environment
+- node.js v14.19.1
+- npm 6.14.16
 
 ## Installation Steps
 ### Backend
